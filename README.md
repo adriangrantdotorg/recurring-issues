@@ -44,8 +44,6 @@ Before fixing any bug, the AI checks whether it has been fixed before, and a rep
 
 Needs an AI assistant that supports [Agent Skills](https://github.com/anthropics/skills). Works best in a git repo, where past fixes are easy to find.
 
----
-
 ```bash
 # Claude Code
 git clone https://github.com/adriangrantdotorg/recurring-issues.git ~/.claude/skills/recurring-issues
@@ -60,6 +58,8 @@ git clone https://github.com/adriangrantdotorg/recurring-issues.git ~/.agents/sk
 | **[Claude Code](https://code.claude.com/docs/en/skills)** | `~/.claude/skills/` |
 | **[Cursor](https://cursor.com/docs/skills)** | `~/.cursor/skills/` |
 | **[ChatGPT & Codex](https://learn.chatgpt.com/docs/build-skills)** | `~/.agents/skills/` |
+
+---
 
 ## 💡 Usage
 

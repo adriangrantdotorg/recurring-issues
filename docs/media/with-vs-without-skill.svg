@@ -21,8 +21,8 @@
     <text x="592" y="103" fill="#ffdcd7">Patch again</text>
     <rect x="662" y="70" width="104" height="56" rx="8" fill="#4a1d22" stroke="#f85149"/>
     <text x="714" y="103" fill="#ffdcd7">Comes back</text>
-    <rect x="778" y="70" width="150" height="56" rx="8" fill="#4d3a0f" stroke="#d29922"/>
-    <text x="853" y="103" fill="#f8e3a1">Works · report 3+</text>
+    <rect x="776" y="70" width="156" height="56" rx="8" fill="#4d3a0f" stroke="#d29922"/>
+    <text x="854" y="103" fill="#f8e3a1">Works · report 3+</text>
   </g>
 
   <!-- With lane -->
