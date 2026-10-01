@@ -1,6 +1,6 @@
-# 🔁🛡️ Recurring Issues Ai Skill
+# 🔁🛡️ Recurring Issues AI Skill
 
-![Recurring Issues Ai Skill Banner](banner.png)
+![Recurring Issues AI Skill Banner](banner.png)
 
 > An AI coding skill that permanently quashes repeat bugs.
 
