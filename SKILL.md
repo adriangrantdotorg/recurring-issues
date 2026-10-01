@@ -1,5 +1,5 @@
 ---
-name: recurring-issues
+name: recurring-issues-ai-skill
 description: "Recognize that a defect the user reports has come up BEFORE and give it a PERMANENT fix instead of another patch. Use whenever the user reports a bug, visual glitch, misalignment, broken behavior or 'it's doing X again' in any software project — and ALWAYS when the user's message says 'again', 'still', 'this isn't the first time', 'keeps happening', 'I already asked', 'we talked about this', 'find a permanent fix', or when a search of the repo's RECURRING.md / CLAUDE.md / git log finds the same symptom. Holds the history check (where past reports live), the four-part permanent-fix checklist (one producer, full sweep, an automatic guard that fails on regression, a rule with its trigger), the RECURRING.md ledger format, and the report line. Also use after fixing ANY defect, to append the ledger line that lets the next session find it."
 ---
 

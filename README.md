@@ -1,10 +1,10 @@
-# 🔁🛡️ Recurring Issues
+# 🔁🛡️ Recurring Issues Ai Skill
 
-![Recurring Issues Banner](banner.png)
+![Recurring Issues Ai Skill Banner](banner.png)
 
 > An AI coding skill that permanently quashes repeat bugs.
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE.txt) [![Agent Skill](https://img.shields.io/badge/Agent%20Skill-SKILL.md-8A2BE2.svg)](https://github.com/anthropics/skills) [![Version](https://img.shields.io/github/v/release/adriangrantdotorg/recurring-issues?color=orange&label=Version)](https://github.com/adriangrantdotorg/recurring-issues/releases) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/adriangrantdotorg/recurring-issues/pulls)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE.txt) [![Agent Skill](https://img.shields.io/badge/Agent%20Skill-SKILL.md-8A2BE2.svg)](https://github.com/anthropics/skills) [![Version](https://img.shields.io/github/v/release/adriangrantdotorg/recurring-issues-ai-skill?color=orange&label=Version)](https://github.com/adriangrantdotorg/recurring-issues-ai-skill/releases) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/adriangrantdotorg/recurring-issues-ai-skill/pulls)
 
 ---
 
@@ -46,11 +46,11 @@ Needs an AI assistant that supports [Agent Skills](https://github.com/anthropics
 
 ```bash
 # Claude Code
-git clone https://github.com/adriangrantdotorg/recurring-issues.git ~/.claude/skills/recurring-issues
+git clone https://github.com/adriangrantdotorg/recurring-issues-ai-skill.git ~/.claude/skills/recurring-issues-ai-skill
 # Cursor
-git clone https://github.com/adriangrantdotorg/recurring-issues.git ~/.cursor/skills/recurring-issues
+git clone https://github.com/adriangrantdotorg/recurring-issues-ai-skill.git ~/.cursor/skills/recurring-issues-ai-skill
 # ChatGPT & Codex
-git clone https://github.com/adriangrantdotorg/recurring-issues.git ~/.agents/skills/recurring-issues
+git clone https://github.com/adriangrantdotorg/recurring-issues-ai-skill.git ~/.agents/skills/recurring-issues-ai-skill
 ```
 
 | **Platform** | **Skills folder** |
